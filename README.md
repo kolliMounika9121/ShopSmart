@@ -4,6 +4,11 @@ ShopSmart: Your Digital Grocery Store Experience
 
 Drive Link :
 https://drive.google.com/drive/folders/1KRcm34Go7tKh_4HFWVMM_V9FZTIrpTBu?usp=drive_link
+
+Full Video Demonstration of project
+Link: 
+https://drive.google.com/file/d/1V8MDyKiy4U4Ti0G_zZTxZL7SFuNYIvTa/view?usp=drive_link
+
 # 🛒 ShopSmart: Your Digital Grocery Store Experience
 
 ShopSmart is a full-stack grocery web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js).  
